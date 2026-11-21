@@ -7,9 +7,9 @@ Runs offline in a Python 3.13 sandbox; no network, no dependencies.
 import os
 
 TEXT = (
-    "A thousand questions today, and every one of them has gone quiet. "
+    "A thousand questions today, and every one has gone quiet. "
     "Starlight that left before counting began is still on its way, "
-    "one slow mile at a time. "
+    "one slow mile, then another. "
     "It asks nothing of you. "
     "It touches the window, the floor, and keeps going, "
     "the way rain falls long after everyone is asleep."
